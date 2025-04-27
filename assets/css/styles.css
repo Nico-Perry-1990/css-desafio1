@@ -1,0 +1,20 @@
+main {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-height: 100%;
+}
+
+.sidebar {
+    height: 100vh;
+    width: 15vh;
+}
+.chat-section{
+    display: flex;
+    background-color: bisque;
+    min-height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
