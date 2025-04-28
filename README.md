@@ -6,4 +6,5 @@
 
 ### Segundo Commit
 
-1. Se comienza a dar formato al layout.
+1. Se da formato al layout.
+2. Se agregan imagenes.
